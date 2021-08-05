@@ -5,6 +5,7 @@ def restar(e):
 def sumar(e):
     nuevo = e+1
     print(nuevo)
-    
+
 e = 11
 restar(e)
+sumar(e)
